@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Corey's Programming Portfolio</title>
+    </head>
+    <body>
+        <img src= "csc106_banner.jpg"> <br>
+       <h1><em><strong>Javascripts</strong></em></h1>
+        <p>All of the programs I have done at the University of Rhode Island are located here.</p>
+</html>
