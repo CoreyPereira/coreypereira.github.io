@@ -1,7 +1,7 @@
 
 body {
 background-color: #1E90FF;
-background-image: url("mybackground.jpg");
+background-image: url("mybackground.jpg") ;
 }
 
 
@@ -10,6 +10,7 @@ h1 {
   margin-left: 20px;
 }
 
-p {
-    color: #AFEEEE;
+mark {
+background-color: #191970;
+color: #AFEEEE;
 }
