@@ -1,16 +1,17 @@
-
-body {
-background-color: #1E90FF;
-background-image: url("myBackground.jpg") ;
+.content {
+	max-width: 800px;
+	margin:auto;
 }
 
-
+body {
+	background-color: black;
+}
 h1 {
-  color: #ADD8E6;
+  color: #00BFFF;
   margin-left: 20px;
 }
 
-mark {
-background-color: #191970;
-color: #AFEEEE;
+p {
+color: #00BFFF;
+margin-left:20px;
 }
